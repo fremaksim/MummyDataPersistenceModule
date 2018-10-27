@@ -16,7 +16,7 @@ open class MummyCaches{
     
     private let standUserDefaults = UserDefaults.standard
     
-    let MummyJSONDataCacheKeyPath = "MummyJSONDataCacheKeyPath"
+    private let MummyJSONDataCacheKeyPath = "MummyJSONDataCacheKeyPath"
     
 }
 
