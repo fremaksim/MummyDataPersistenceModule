@@ -12,7 +12,7 @@ import CommonCrypto
 open class MummyCaches{
     
     /// 单例
-    static let shared = MummyCaches()
+   public static let shared = MummyCaches()
     
     private let standUserDefaults = UserDefaults.standard
     
