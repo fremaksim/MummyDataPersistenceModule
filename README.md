@@ -1,6 +1,13 @@
 # MummyDataPersistenceModule
 Mummy is a delightful data persistence module for iOS.
 
+[![Pod Version](https://img.shields.io/badge/Pod-2.0.2-6193DF.svg)](https://cocoapods.org/)
+![Swift Version](https://img.shields.io/badge/xCode-10.1+-blue.svg)
+![Swift Version](https://img.shields.io/badge/iOS-8.0+-blue.svg) 
+![Swift Version](https://img.shields.io/badge/Swift-4.2+-orange.svg)
+![Plaform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
+![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
+
 ## How to Get Started
 
 * [Download Mummy](https://github.com/fremaksim/MummyDataPersistenceModule) and try out the included iPhone example apps
